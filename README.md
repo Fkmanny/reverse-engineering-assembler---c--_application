@@ -11,11 +11,11 @@ This project demonstrates reverse engineering techniques using Ghidra to analyze
 Reverse engineering skills are essential for organizations to analyze malware, perform vulnerability research, conduct security assessments, and protect intellectual property through code analysis and hardening.
 
 ### Use Case Scenario
-A software company needs to analyze competitor applications for potential patent infringement or security vulnerabilities. The reverse engineering process involves:
-- Decompiling executable files to understand functionality
-- Analyzing obfuscated code for hidden behaviors
-- Identifying security vulnerabilities in proprietary software
-- Validating software compliance and licensing
+A security firm needs to analyze potentially malicious software. The reverse engineering process involves:
+- Decompiling executables to understand functionality
+- Analyzing code obfuscation techniques
+- Identifying hidden behaviors and vulnerabilities
+- Documenting findings for client reports
 
 ### Security Benefits
 - **Malware Analysis**: Understanding malicious code behavior
